@@ -5,13 +5,13 @@
 
 I am a fresh-faced Front End Developer 😊. I started my career in Design but recently retrained in Software Development after discovering how addictive it is to code!
 
-## I’m currently working on 💻
+## 💻 I’m currently working on... 
 
 A static portfolio website for a makeup artist
 
-## I’m currently learning 🎓 
+## 🎓 I’m currently learning...  
 
-The MERN Stack!
+The MERN Stack.
 
 ![Udemy](https://img.shields.io/badge/Udemy-white?style=for-the-badge&labelColor=white&logo=Udemy&logoColor=purple)
 
