@@ -1,9 +1,9 @@
-# Hello You!
+# Hello
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&labelColor=blue&logo=LinkedIn&logoColor=white)][linkedin]
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)][twitter]
 
-I am fresh-faced Front End Developer 😊. I started my career in Design but recently retrained in Software Development after discovering how addictive it is to code!
+I am a fresh-faced Front End Developer 😊. I started my career in Design but recently retrained in Software Development after discovering how addictive it is to code!
 
 ## I’m currently working on 💻...
 
