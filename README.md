@@ -13,13 +13,13 @@ A static portfolio website for a makeup artist
 
 The MERN Stack.
 
-![Udemy](https://img.shields.io/badge/Udemy-white?style=for-the-badge&labelColor=white&logo=Udemy&logoColor=purple)
+<!-- ![Udemy](https://img.shields.io/badge/Udemy-white?style=for-the-badge&labelColor=white&logo=Udemy&logoColor=purple) -->
 
-### Recently completed:
+### Recently completed on Udemy:
 
 [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021][node-course]
 
-### Ready to start:
+### Ready to start on Udemy:
 
 [React - The Complete Guide (incl Hooks, React Router, Redux)][react-course]
 
