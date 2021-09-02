@@ -64,9 +64,13 @@ The MERN Stack.
 
 <!-- ![Fran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdeboo&layout=compact&theme=merko) -->
 
-![Fran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdeboo&layout=compact&theme=dark)
+![Fran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdeboo&layout=compact&theme=merko)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fdeboo&repo=toinfinity)](https://github.com/fdeboo/toinfinity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fdeboo&repo=to-infinity)](https://github.com/fdeboo/to-infinity)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fdeboo&repo=101things)](https://github.com/fdeboo/101things)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fdeboo&repo=natours)](https://github.com/fdeboo/natours)
 
 [linkedin]: https://www.linkedin.com/in/frandeboo/
 [node-course]: https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
