@@ -66,6 +66,7 @@ The MERN Stack.
 
 ![Fran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdeboo&layout=compact&theme=dark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fdeboo&repo=toinfinity)](https://github.com/fdeboo/toinfinity)
 
 [linkedin]: https://www.linkedin.com/in/frandeboo/
 [node-course]: https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
