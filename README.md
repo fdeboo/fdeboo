@@ -1,4 +1,4 @@
-# Hello!
+# Hello there! How are you doing?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&labelColor=blue&logo=LinkedIn&logoColor=white)][linkedin]
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)][twitter]
@@ -60,11 +60,11 @@ The MERN Stack.
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdeboo&show_icons=true&theme=merko) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdeboo&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fdeboo&show_icons=true&theme=dark)
 
 <!-- ![Fran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdeboo&layout=compact&theme=merko) -->
 
-![Fran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdeboo&layout=compact&theme=tokyonight)
+![Fran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdeboo&layout=compact&theme=dark)
 
 
 [linkedin]: https://www.linkedin.com/in/frandeboo/
