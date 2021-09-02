@@ -64,7 +64,7 @@ The MERN Stack.
 
 <!-- ![Fran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdeboo&layout=compact&theme=merko) -->
 
-![Fran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdeboo&layout=compact&theme=merko)
+![Fran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdeboo&layout=compact&theme=dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fdeboo&repo=to-infinity&theme=dark)](https://github.com/fdeboo/to-infinity)
 
