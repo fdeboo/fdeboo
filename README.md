@@ -1,4 +1,4 @@
-# Hello Hello!
+# Hello hello!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&labelColor=blue&logo=LinkedIn&logoColor=white)][linkedin]
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)][twitter]
@@ -19,7 +19,7 @@ The MERN Stack.
 
 [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021][node-course]
 
-### Ready to start on Udemy:
+### Recently started on Udemy:
 
 [React - The Complete Guide (incl Hooks, React Router, Redux)][react-course]
 
