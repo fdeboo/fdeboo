@@ -70,6 +70,7 @@ The MERN Stack.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fdeboo&repo=101things&theme=dark)](https://github.com/fdeboo/101things)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fdeboo&repo=natours&theme=dark)](https://github.com/fdeboo/natours)
 
 [linkedin]: https://www.linkedin.com/in/frandeboo/
 [node-course]: https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
