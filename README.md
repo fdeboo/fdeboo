@@ -17,11 +17,11 @@ The MERN Stack.
 
 ### Recently completed on Udemy:
 
-[Node.js, Express, MongoDB & More: The Complete Bootcamp 2021][node-course]
+[React - The Complete Guide (incl Hooks, React Router, Redux)][react-course]
 
 ### Recently started on Udemy:
 
-[React - The Complete Guide (incl Hooks, React Router, Redux)][react-course]
+[Next.js & React - The Complete Guide][nextjs-course]
 
 ## Web Languages
 
@@ -35,6 +35,7 @@ The MERN Stack.
 ## Frameworks and Libraries:
 
 ![Express](https://img.shields.io/badge/express-00b359?style=for-the-badge&logo=Express&logoColor=white)
+![React](https://img.shields.io/badge/react-00b359?style=for-the-badge&logo=React&logoColor=white)
 ![Django](https://img.shields.io/badge/django-00b359?style=for-the-badge&logo=Django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-00b359?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-00b359?style=for-the-badge&logo=flask&logoColor=white)
@@ -73,6 +74,6 @@ The MERN Stack.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fdeboo&repo=natours&theme=dark)](https://github.com/fdeboo/natours)
 
 [linkedin]: https://www.linkedin.com/in/frandeboo/
-[node-course]: https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
+[nextjs-course]: https://www.udemy.com/course/nextjs-react-the-complete-guide/
 [react-course]: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 [twitter]: https://twitter.com/Fran_DeBoo
